@@ -31,3 +31,35 @@ https://www.wshunli.com/posts/325f89c7.html
 6、原型模式(Prototype)
 
 https://www.wshunli.com/posts/b7ba42b9.html
+
+## 结构型模式
+
+结构型模式可以让你把类或对象组合到更大的结构中。
+
+7、适配器模式(Adapter)
+
+https://www.wshunli.com/posts/69ceed63.html
+
+8、外观模式(Facade)
+
+https://www.wshunli.com/posts/82583d16.html
+
+9、装饰者模式(Decorator)
+
+https://www.wshunli.com/posts/d95b685e.html
+
+10、代理模式(Proxy)
+
+https://www.wshunli.com/posts/b4b3761.html
+
+11、组合模式(Composite)
+
+https://www.wshunli.com/posts/fb6e1df3.html
+
+12、桥接模式(Bridge)
+
+https://www.wshunli.com/posts/f75ecf9a.html
+
+13、享元模式(Flyweight)
+
+https://www.wshunli.com/posts/180f2df5.html
