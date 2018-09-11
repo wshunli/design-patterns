@@ -1,4 +1,4 @@
-package ch14;
+package ch14.push;
 
 public interface Observer {
 

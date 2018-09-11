@@ -1,4 +1,4 @@
-package ch14;
+package ch14.pull;
 
 public class ObserverPatternMain {
     public static void main(String[] args) {

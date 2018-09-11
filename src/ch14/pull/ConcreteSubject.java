@@ -1,4 +1,4 @@
-package ch14;
+package ch14.pull;
 
 public class ConcreteSubject extends Subject {
     private String state;
@@ -10,6 +10,7 @@ public class ConcreteSubject extends Subject {
     public void change(String newState) {
         state = newState;
         System.out.println("ConcreteSubject：" + state);
-        this.nodifyObservers(state);//状态发生改变，通知各个观察者
+        this.nodifyObservers();//状态发生改变，通知各个观察者
+
     }
 }
